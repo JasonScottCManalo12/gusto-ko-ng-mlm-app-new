@@ -1,0 +1,7 @@
+{
+  "name": "Apex Network - MLM & Direct Sales Platform",
+  "description": "Complete Multi-Level Marketing (MLM) platform with binary & unilevel genealogy visualizer, pairing bonus engine, e-wallet payout, and distributor retailing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
